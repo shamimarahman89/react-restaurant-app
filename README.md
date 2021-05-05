@@ -15,7 +15,7 @@ When a single restaurant is selected, the details of the restaurant is displayed
 ## Technical Environment:
 
 * React 
-* Express, 
+* Express 
 * Node.js
 * MongoDB
 * REST API
